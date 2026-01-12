@@ -1,0 +1,4 @@
+# Dependencias del proyecto
+
+# GUI
+customtkinter==5.2.1 # app de escritorio
