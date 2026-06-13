@@ -214,7 +214,6 @@ class CalificacionesVista(ctk.CTkFrame):
         # Diálogo de selección de asignatura y año
         ExportarDialog(self, asigs, self._ctrl)
 
-    # ── Pantalla inicio_vista.py estaba vacía, re-exportamos vista ────────────
     def _actualizar(self) -> None:
         self._refrescar_grid()
 
